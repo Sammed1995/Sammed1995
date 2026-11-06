@@ -1,12 +1,12 @@
 ![ezgif com-resize(1)](https://github.com/dhiraj1008/dhiraj1008/assets/94028619/cdb1c02b-2398-4c04-aa4c-471ac106deb2)
 <h1 align="center">Hi 👋, I am Sammed M Alagoudar</h1>
-<h3 align="center">A passionate  DevOps enthusiastic from India</h3>
+<h3 align="center">Devops Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sammed1995&label=Profile%20views&color=0e75b6&style=flat" alt="Sammed1995" /> </p>
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently working as a **DevOps Engineer**
 
 - 👯 I’m looking to collaborate on **DevOps related Projects :).**
 
